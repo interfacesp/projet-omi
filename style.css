@@ -1,0 +1,27 @@
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li
+{
+    margin-right: 30px;
+}
+
+h1 {
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+img {
+    width: 15%;
+    display: block;
+    margin: auto;
+}
+
